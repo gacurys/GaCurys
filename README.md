@@ -8,5 +8,7 @@
 - 📫 Fale comigo no e-mail: gacurys@gmail.com
 -->
 
+<div>
 <img width="42%" src="link"> 
 <img width="50%" src="link">
+</div>
